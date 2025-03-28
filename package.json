@@ -1,0 +1,36 @@
+{
+  "name": "create-clean-arch-cli",
+  "version": "1.0.0",
+  "description": "CLI para crear proyectos Node.js con Clean Architecture",
+  "main": "cli.js",
+  "bin": {
+    "create-clean-arch": "./cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": [
+    "clean-architecture",
+    "nodejs",
+    "cli",
+    "typescript",
+    "boilerplate",
+    "generator",
+    "workspace",
+    "monorepo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "inquirer": "^8.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/create-clean-arch-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/create-clean-arch-cli/issues"
+  },
+  "homepage": "https://github.com/yourusername/create-clean-arch-cli#readme"
+}

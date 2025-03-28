@@ -4,7 +4,7 @@
   "description": "CLI para crear proyectos Node.js con Clean Architecture",
   "main": "cli.js",
   "bin": {
-    "create-clean-arch": "./cli.js"
+    "create-clean-arch": "cli.js"
   },
   "scripts": {
     "start": "node cli.js"

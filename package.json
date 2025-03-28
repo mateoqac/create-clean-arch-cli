@@ -1,6 +1,6 @@
 {
   "name": "create-clean-arch-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI para crear proyectos Node.js con Clean Architecture",
   "main": "cli.js",
   "bin": {
